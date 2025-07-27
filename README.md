@@ -1,12 +1,73 @@
-# 💫 About Me:
-<br>👋 ¡Hola! Soy Luis Fernando Bautista Alcozer, también conocido como FerFerFer35<br>🎓 Sobre mí<br>Soy estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones, apasionado por el desarrollo web, el desarrollo de aplicaciones móviles y el desarrollo BackEnd. Disfruto aprendiendo y experimentando con nuevas tecnologías y herramientas para crear soluciones innovadoras y eficientes.<br><br>🛠️ Habilidades Técnicas<br>Lenguajes de Programación: Java, JavaScript, HTML, CSS, C#, Python, Dart, PHP<br>Frameworks y Librerías: NodeJS, Astro, Flutter<br>Bases de Datos: MySQL<br><br>🎶 Intereses<br>Aparte de la tecnología, me apasiona el fútbol y la producción musical. Utilizo Ableton Live para crear y experimentar con música en mi tiempo libre.<br><br>🎯 Objetivos Futuros<br>Aspiro a convertirme en un desarrollador Full Stack competente y contribuir a proyectos que tengan un impacto positivo en la sociedad. Estoy siempre en busca de nuevas oportunidades de aprendizaje y colaboración.
+# 💫 Acerca de mi:
+<br>👋 ¡Hola! Soy Luis Fernando Bautista Alcozer<br>
+Soy ingeniero en Tecnologías de la Información y Comunicaciones, con un fuerte interés en el desarrollo web, el desarrollo de aplicaciones móviles y el desarrollo BackEnd. Me entusiasma aprender de forma constante y experimentar con nuevas herramientas que me permitan construir soluciones funcionales, modernas y orientadas a la eficiencia.
+
+🎶 Intereses  
+<br>
+Más allá de la tecnología, me apasionan el fútbol y las artes marciales mixtas, disciplinas en las que entreno de forma constante para mejorar tanto física como mentalmente.
+<br><br>
+
+🎯 Objetivos Futuros
+<br>
+Aspiro a convertirme en un desarrollador Full Stack competente y contribuir a proyectos que tengan un impacto positivo en la sociedad. Estoy siempre en busca de nuevas oportunidades de aprendizaje y colaboración.
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/luisfernando.bautista.09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bautistalf.wav/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-fernando-bautista-8a290520b/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23327633/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LFernandoB09) 
+
+<p align="center">
+  <a href="https://www.facebook.com/luisfernando.bautista.09" target="_blank">
+    <img src="https://svgl.app/library/facebook.svg" alt="Facebook" height="30" width="30" style="margin: 10px;">
+  </a>
+  <a href="https://www.instagram.com/bautistalf.wav/" target="_blank">
+    <img src="https://svgl.app/library/instagram_dark.svg" alt="Instagram" height="30" width="30" style="margin: 10px;">
+  </a>
+  <a href="https://stackoverflow.com/users/23327633/luis-fernando" target="_blank">
+    <img src="https://svgl.app/library/stackoverflow.svg" alt="Stack Overflow" height="30" width="30" style="margin: 10px;">
+  </a>
+  <a href="mailto:lfernandob09@gmail.com" target="_blank">
+    <img src="https://svgl.app/library/gmail.svg" alt="Email" height="30" width="30" style="margin: 10px;">
+  </a>
+</p>
+
+
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+## Lenguajes de programación:
+
+<p align="center">
+  <a href="#"><img src="https://svgl.app/library/java.svg" alt="Java" height="30" width="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://svgl.app/library/javascript.svg" alt="JavaScript" height="30" width="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://svgl.app/library/csharp.svg" alt="C#" height="30" width="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://svgl.app/library/php_dark.svg" alt="PHP" height="30" width="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://svgl.app/library/python.svg" alt="Python" height="30" width="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://svgl.app/library/dart.svg" alt="Dart" height="30" width="30" style="margin: 10px;"></a>
+</p>
+
+## Frameworks
+<p align="center">
+  <a href="#"><img src="https://svgl.app/library/laravel.svg" alt="Laravel" height="30" width="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://svgl.app/library/react_light.svg" alt="React" height="30" width="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://svgl.app/library/flutter.svg" alt="Flutter" height="30" width="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://svgl.app/library/spring.svg" alt="Spring" height="30" width="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://svgl.app/library/astro_dark.svg" alt="Astro" height="30" width="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://svgl.app/library/tailwindcss.svg" alt="TailwindCSS" height="30" width="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://svgl.app/library/flask-dark.svg" alt="Flask" height="30" width="30" style="margin: 10px;"></a>
+</p>
+
+## Bases de datos
+<p align="center">
+  <a href="#"><img src="https://svgl.app/library/mysql.svg" alt="MySQL" height="30" width="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://svgl.app/library/mongodb.svg" alt="MongoDB" height="30" width="30" style="margin: 10px;"></a>
+</p>
+
+## Control de versiones
+<p align="center">
+  <a href="#"><img src="https://svgl.app/library/git.svg" alt="Git" height="30" width="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://svgl.app/library/github_dark.svg" alt="GitHub" height="30" width="30" style="margin: 10px;"></a>
+</p>
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FerFerFer35&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FerFerFer35&theme=dark&hide_border=true)<br/>
