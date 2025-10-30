@@ -19,7 +19,7 @@ Aspiro a convertirme en un desarrollador Full Stack competente y contribuir a pr
     <img src="https://svgl.app/library/facebook-icon.svg" alt="Facebook" width="20" height="20" style="vertical-align: middle;" /> <strong>Facebook</strong>
   </a>
   <a href="https://www.instagram.com/bautistalf.wav/" target="_blank" aria-label="Instagram" style="margin:5px; text-decoration: none; color: inherit;">
-    <img src="https://svgl.app/library/instagram_dark.svg" alt="Instagram" width="20" height="20" style="vertical-align: middle;" /> <strong>Instagram</strong>
+    <img src="https://svgl.app/library/instagram-icon.svg" alt="Instagram" width="20" height="20" style="vertical-align: middle;" /> <strong>Instagram</strong>
   </a>
   <a href="https://stackoverflow.com/users/23327633/luis-fernando" target="_blank" aria-label="Stack Overflow" style="margin:5px; text-decoration: none; color: inherit;">
     <img src="https://svgl.app/library/stackoverflow.svg" alt="Stack Overflow" width="20" height="20" style="vertical-align: middle;" /> <strong>Stack Overflow</strong>
