@@ -70,7 +70,7 @@ Aspiro a convertirme en un desarrollador Full Stack competente y contribuir a pr
     <img src="https://svgl.app/library/spring.svg" alt="Spring" width="20" height="20" style="vertical-align: middle;" /> <strong>Spring</strong>
   </span>
   <span style="margin:5px;">
-    <img src="https://svgl.app/library/astro_dark.svg" alt="Astro" width="20" height="20" style="vertical-align: middle;" /> <strong>Astro</strong>
+    <img src="https://svgl.app/library/astro-icon-dark.svg" alt="Astro" width="20" height="20" style="vertical-align: middle;" /> <strong>Astro</strong>
   </span>
   <span style="margin:5px;">
     <img src="https://svgl.app/library/tailwindcss.svg" alt="TailwindCSS" width="20" height="20" style="vertical-align: middle;" /> <strong>TailwindCSS</strong>
