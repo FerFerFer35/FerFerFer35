@@ -84,10 +84,10 @@ Aspiro a convertirme en un desarrollador Full Stack competente y contribuir a pr
 
 <p align="center">
   <span style="margin:5px;">
-    <img src="https://svgl.app/library/mysql-icon-light.svg" alt="MySQL" width="20" height="20" style="vertical-align: middle;" /> <strong>MySQL</strong>
+    <img src="https://svgl.app/library/mysql-icon-dark.svg" alt="MySQL" width="20" height="20" style="vertical-align: middle;" /> <strong>MySQL</strong>
   </span>
   <span style="margin:5px;">
-    <img src="https://svgl.app/library/mongodb-icon-light.svg" alt="MongoDB" width="20" height="20" style="vertical-align: middle;" /> <strong>MongoDB</strong>
+    <img src="https://svgl.app/library/mongodb-icon-dark.svg" alt="MongoDB" width="20" height="20" style="vertical-align: middle;" /> <strong>MongoDB</strong>
   </span>
 </p>
 
