@@ -24,7 +24,7 @@ Aspiro a convertirme en un desarrollador Full Stack competente y contribuir a pr
   <a href="https://stackoverflow.com/users/23327633/luis-fernando" target="_blank" aria-label="Stack Overflow" style="margin:5px; text-decoration: none; color: inherit;">
     <img src="https://svgl.app/library/stackoverflow.svg" alt="Stack Overflow" width="20" height="20" style="vertical-align: middle;" /> <strong>Stack Overflow</strong>
   </a>
-  <a href="mailto:lfernandob09@gmail.com" target="_blank" aria-label="Email" style="margin:5px; text-decoration: none; color: inherit;">
+  <a href="mailto:lfba6609@gmail.com" target="_blank" aria-label="Email" style="margin:5px; text-decoration: none; color: inherit;">
     <img src="https://svgl.app/library/gmail.svg" alt="Email" width="20" height="20" style="vertical-align: middle;" /> <strong>Email</strong>
   </a>
 </p>
