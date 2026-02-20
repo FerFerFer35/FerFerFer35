@@ -99,6 +99,12 @@
 <img src="https://svgl.app/library/mongodb-icon-dark.svg" width="40" height="40"/>
 </a>
 </td>
+
+<td align="center">
+<a href="https://www.postgresql.org/">
+<img src="https://svgl.app/library/postgresql.svg" width="40" height="40"/>
+</a>
+</td>
 </tr>
 </table>
 
